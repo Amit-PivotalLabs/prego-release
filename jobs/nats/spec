@@ -8,7 +8,7 @@ templates:
   nats.conf.erb: config/nats.conf
 
 packages:
-  - common
+  - prego-common
   - gnatsd
 
 properties:

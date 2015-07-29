@@ -15,7 +15,7 @@ templates:
   hm9000.json.erb: config/hm9000.json
 
 packages:
-  - common
+  - prego-common
   - hm9000
 
 properties:

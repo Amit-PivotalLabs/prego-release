@@ -14,7 +14,7 @@ templates:
   dir_server_ctl.erb: bin/dir_server_ctl
 
 packages:
-- common
+- prego-common
 - dea_next
 - warden
 - rootfs_cflinuxfs2

@@ -7,7 +7,7 @@ PIDFILE=$RUN_DIR/nats_stream_forwarder.pid
 export BUNDLE_GEMFILE=/var/vcap/packages/nats/nats/Gemfile
 export CONFIG_DIR=$JOB_DIR/config
 
-source /var/vcap/packages/common/utils.sh
+source /var/vcap/packages/prego-common/utils.sh
 
 case $1 in
   start)

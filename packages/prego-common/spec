@@ -1,0 +1,4 @@
+---
+name: prego-common
+files:
+- common/utils.sh

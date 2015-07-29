@@ -8,7 +8,7 @@ templates:
   nats_stream_forwarder_ctl.erb: bin/nats_stream_forwarder_ctl
 
 packages:
-  - common
+  - prego-common
   - ruby-2.1.6
   - nats
 
